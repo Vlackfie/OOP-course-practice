@@ -3,7 +3,7 @@ package com.mycompany.librarymanagement;
 
 /**
  *
- * @author nasir
+ * @author sadikul 
  */
 class Journal extends LibraryItem {
     private int issueNumber;
