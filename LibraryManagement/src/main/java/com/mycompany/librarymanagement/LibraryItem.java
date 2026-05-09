@@ -3,7 +3,7 @@ package com.mycompany.librarymanagement;
 
 /**
  *
- * @author nasir
+ * @author sadikul
  */
 abstract class LibraryItem {
     private int itemId;
